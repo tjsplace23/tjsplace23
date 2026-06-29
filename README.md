@@ -6,7 +6,7 @@ Now I build real, functional software — full websites and data-driven web apps
 
 <!-- After completing the Anthropic certifications, add the badge image here, e.g. ![Anthropic Certified](badge-url) -->
 
-> 🤖 **Claude / Anthropic** — pursuing the **Claude Certified Architect** credential and Anthropic Academy certifications. I build production web apps end-to-end with Claude as my engine.
+> 🤖 **Anthropic Academy & IBM SkillsBuild certified in AI.** I build production websites and web apps end-to-end with Claude as my engine.
 
 ---
 
@@ -41,6 +41,16 @@ Full WordPress site for a 37,700+ subscriber finance channel — custom dark/gol
 
 ---
 
+## 🎓 Certifications
+
+**Anthropic Academy**
+Claude 101 · Claude Code 101 · Claude Platform 101 · Introduction to Claude Cowork · Claude Code in Action
+
+**IBM SkillsBuild — Generative AI**
+Foundations in Generative AI · Introduction to Large Language Models · Ethical Considerations for Generative AI (+ 2 more)
+
+---
+
 ## 🎥 My Channels
 
 | Channel | Topic | Subscribers |
@@ -61,7 +71,7 @@ That's the modern builder's edge: the expertise is mine, and AI makes it shippab
 
 ## 📫 Currently
 
-- 🤖 Completing **Anthropic / Claude certifications** (Claude Certified Architect + Anthropic Academy)
+- 🤖 **Anthropic Academy** & **IBM SkillsBuild** certified in AI — next up: the Claude Certified Architect credential
 - 💻 Building custom websites & web apps (available for freelance)
 - 🌐 [timtalksfinance.com](https://timtalksfinance.com)
 - 💼 [LinkedIn](https://linkedin.com/in/timothy-george-7b143726b/)
